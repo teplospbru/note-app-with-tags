@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/note-app-with-tags/static/css/main.c4aff0ea.css",
+    "main.js": "/note-app-with-tags/static/js/main.bd9934d3.js",
+    "static/js/787.302d94fb.chunk.js": "/note-app-with-tags/static/js/787.302d94fb.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/note-app-with-tags/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/note-app-with-tags/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/note-app-with-tags/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-Light.ttf": "/note-app-with-tags/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "index.html": "/note-app-with-tags/index.html",
+    "main.c4aff0ea.css.map": "/note-app-with-tags/static/css/main.c4aff0ea.css.map",
+    "main.bd9934d3.js.map": "/note-app-with-tags/static/js/main.bd9934d3.js.map",
+    "787.302d94fb.chunk.js.map": "/note-app-with-tags/static/js/787.302d94fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4aff0ea.css",
+    "static/js/main.bd9934d3.js"
+  ]
+}
